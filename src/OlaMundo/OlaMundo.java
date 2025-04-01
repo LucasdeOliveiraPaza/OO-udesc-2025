@@ -1,3 +1,5 @@
+package OlaMundo;
+
 public class OlaMundo {
     String nome = "Curso de sistema de informação";
     double idade = 1.5;
