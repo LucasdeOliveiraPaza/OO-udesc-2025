@@ -1,6 +1,6 @@
 public class OlaMundo {
-    String nome = "UDESC";
-    Integer idade = 42;
+    String nome = "Curso de sistema de informação";
+    double idade = 1.5;
 
     void imprimirDados() {
         System.out.println(nome + " - " + idade);
